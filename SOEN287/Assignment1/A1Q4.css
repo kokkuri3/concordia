@@ -1,0 +1,34 @@
+table{
+    color: rgb(252, 248, 248);
+    margin-left: 5%;
+}
+body{
+    background-image:url(http://vignette2.wikia.nocookie.net/clubpenguin/images/d/db/Disco_2014.png/revision/latest?cb=20141212230647&path-prefix=es) ;
+    color: white;
+    text-align: center;
+}
+#fieldA{
+    border-color: rgb(226, 43, 43);
+    border-width: 5px;
+    background-color: rgba(230, 217, 97, 0.632);
+    color: rgb(66, 61, 61);
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align: left;
+}
+#legendA{
+    color: rgb(226, 43, 43);
+}
+
+#fieldB{
+    border-color: aqua;
+    border-width: 5px;
+    background-color: rgba(137, 43, 226, 0.588);
+    color: rgb(101, 251, 46);
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align: left;
+}
+#legendB{
+    color: aqua;
+}
